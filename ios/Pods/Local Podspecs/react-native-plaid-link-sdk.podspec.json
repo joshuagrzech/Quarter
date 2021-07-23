@@ -1,0 +1,24 @@
+{
+  "name": "react-native-plaid-link-sdk",
+  "version": "7.0.0",
+  "summary": "React Native Plaid Link SDK",
+  "license": "MIT",
+  "authors": "Plaid",
+  "homepage": "https://plaid.com/docs/link/ios/",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/plaid/react-native-plaid-link-sdk.git",
+    "tag": "v7.0.0"
+  },
+  "source_files": "ios/*.{h,m}",
+  "dependencies": {
+    "React-Core": [
+
+    ],
+    "Plaid": [
+      "~> 2.0.11"
+    ]
+  }
+}

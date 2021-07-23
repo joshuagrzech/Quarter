@@ -1,0 +1,19 @@
+
+/Users/joshuagrzech/Desktop/habitat/src/App.js
+  38:3  error  'persistor' is not defined  no-undef
+
+/Users/joshuagrzech/Desktop/habitat/src/components/HomeTab/HomeTab.js
+  12:16  error  'HomeTab' is not defined  no-undef
+
+/Users/joshuagrzech/Desktop/habitat/src/styles/Text/index.js
+  34:3  error  Parsing error: Identifier 'HomeListItemMainText' has already been declared
+
+  32 |   InstructionText,
+  33 |   TransactionDetailInstructionText,
+> 34 |   HomeListItemMainText,
+     |   ^
+  35 |   HomeListItemSecondaryText,
+  36 |   RecentTransactionDateText,
+  37 |   Text334,
+
+✖ 3 problems (3 errors, 0 warnings)

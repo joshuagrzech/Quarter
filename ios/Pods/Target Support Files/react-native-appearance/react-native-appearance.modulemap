@@ -1,0 +1,6 @@
+module react_native_appearance {
+  umbrella header "react-native-appearance-umbrella.h"
+
+  export *
+  module * { export * }
+}

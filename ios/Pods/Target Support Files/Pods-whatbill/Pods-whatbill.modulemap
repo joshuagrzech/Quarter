@@ -1,0 +1,6 @@
+module Pods_whatbill {
+  umbrella header "Pods-whatbill-umbrella.h"
+
+  export *
+  module * { export * }
+}

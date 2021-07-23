@@ -1,0 +1,6 @@
+module react_native_plaid_link_sdk {
+  umbrella header "react-native-plaid-link-sdk-umbrella.h"
+
+  export *
+  module * { export * }
+}

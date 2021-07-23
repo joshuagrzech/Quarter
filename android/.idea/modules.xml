@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Quarter.iml" filepath="$PROJECT_DIR$/.idea/modules/Quarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Quarter.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Quarter.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-862803371/Quarter.lottie-react-native.iml" filepath="$PROJECT_DIR$/.idea/modules/-862803371/Quarter.lottie-react-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-666205191/Quarter.react-native-appearance.iml" filepath="$PROJECT_DIR$/.idea/modules/-666205191/Quarter.react-native-appearance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-418066358/Quarter.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-418066358/Quarter.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1375555532/Quarter.react-native-bluetooth-cross-platform.iml" filepath="$PROJECT_DIR$/.idea/modules/-1375555532/Quarter.react-native-bluetooth-cross-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1789172794/Quarter.react-native-camera.iml" filepath="$PROJECT_DIR$/.idea/modules/1789172794/Quarter.react-native-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1658339766/Quarter.react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1658339766/Quarter.react-native-community_datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/47350406/Quarter.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/47350406/Quarter.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/938803775/Quarter.react-native-fast-image.iml" filepath="$PROJECT_DIR$/.idea/modules/938803775/Quarter.react-native-fast-image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-96178927/Quarter.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-96178927/Quarter.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1345322048/Quarter.react-native-get-random-values.iml" filepath="$PROJECT_DIR$/.idea/modules/-1345322048/Quarter.react-native-get-random-values.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/763035462/Quarter.react-native-haptic-feedback.iml" filepath="$PROJECT_DIR$/.idea/modules/763035462/Quarter.react-native-haptic-feedback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/523772195/Quarter.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/523772195/Quarter.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1746761109/Quarter.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1746761109/Quarter.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1582267078/Quarter.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1582267078/Quarter.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1155286482/Quarter.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1155286482/Quarter.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-547754327/Quarter.react-native-shared-element.iml" filepath="$PROJECT_DIR$/.idea/modules/-547754327/Quarter.react-native-shared-element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1271412527/Quarter.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/1271412527/Quarter.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-907924379/Quarter.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-907924379/Quarter.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1622991058/Quarter.rn-fetch-blob.iml" filepath="$PROJECT_DIR$/.idea/modules/-1622991058/Quarter.rn-fetch-blob.iml" />
+    </modules>
+  </component>
+</project>
