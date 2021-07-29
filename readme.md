@@ -1,3 +1,4 @@
+
 # "whatBill?" - Shared Living Made Easy
 
 Shared living-space management application, "whatBill?", allows you to track bills, personal IOUs, & household chores all while seamlessly staying in sync with your co-habitants.
@@ -20,15 +21,23 @@ Shared living-space management application, "whatBill?", allows you to track bil
 
 -Push notifications so you're always up-to-date
 
-# Technologies Used
+## Current Build Summary
+- UI is fully built out with Shared Element Transitions.
+- Users can create items and split with roommates on-device
+- Login with Apple and initial API call is fully integrated
+ 
+## Remaining MVP Integrations
+- Complete Plaid and Square Integration
+- Roommate invitations
+- Push Notifications
 
-- React Native
-- Redux
-- React Navigation
-- Shared Element Transition
-- Firebase
-- GCP
-- Google Nearby
-- Node.JS
-- Express
-- Plaid API
+## Roadblocks
+None at the moment. Just some further API integration.
+
+## Created With
+- [@react-native](https://github.com/facebook/react-native)
+- [@react-navigation-shared-element](https://github.com/IjzerenHein/react-navigation-shared-element)
+- [@react-plaid-link](https://github.com/plaid/react-plaid-link)
+- [Square](https://github.com/square/square.github.io)
+- [Apollo/GraphQL](https://github.com/apollographql/apollo-client)
+- [@react-native-firebase](https://github.com/invertase/react-native-firebase)
