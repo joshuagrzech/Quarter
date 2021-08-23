@@ -31,8 +31,9 @@ const userSlice = createSlice({
       return action.payload
     },
     updateProfile(state, action) {
-      const { userObject } = action.payload
-      return Object.assign(state, userObject)
+      const userObject = action.payload
+      console.log(userObject)
+      return {...state, ...userObject}
     },
     addPlaidData(state, action) {
       const { plaidData } = action.payload
@@ -53,7 +54,16 @@ const userSlice = createSlice({
       state.printedDates = datesArray
     },
     resetUser(state, action) {
-      return initialState
+      return {
+        id: null,
+        provider: null,
+        username: null,
+        notifications: [],
+        bankAccount: null,
+        items: [],
+        plaidAccessToken: null,
+        house: null,
+      }
     },
   },
   extraReducers: (builder) => {

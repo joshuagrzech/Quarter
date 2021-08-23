@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>964796745229-lpdf3nd7rdnneoe2egnnv83ubpm4cfra.apps.googleusercontent.com</string>
+	<string>856835808476-bi7m6dgse0ud847v550l38hgdpn3n1cg.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.964796745229-lpdf3nd7rdnneoe2egnnv83ubpm4cfra</string>
+	<string>com.googleusercontent.apps.856835808476-bi7m6dgse0ud847v550l38hgdpn3n1cg</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDtEE8fbzCcIxmwSi6tagl1-ytOXzwyg-Y</string>
+	<string>AIzaSyCM2ttOOQgHnNgYHMSNy-6xHKF9arGpIzM</string>
 	<key>GCM_SENDER_ID</key>
-	<string>964796745229</string>
+	<string>856835808476</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>grz.digital.CoHabitat</string>
+	<string>com.grz.whatBill</string>
 	<key>PROJECT_ID</key>
-	<string>cohabitat</string>
+	<string>whatbill-aac15</string>
 	<key>STORAGE_BUCKET</key>
-	<string>cohabitat.appspot.com</string>
+	<string>whatbill-aac15.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:964796745229:ios:50b10cab7471489e2c7744</string>
+	<string>1:856835808476:ios:3970e2da697916c16a2819</string>
 </dict>
 </plist>

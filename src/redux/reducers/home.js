@@ -54,7 +54,12 @@ const homeSlice = createSlice({
       state.lastUpdated = new XDate().valueOf()
     },
     resetHome(state, action) {
-      return initialState
+      return {
+        id: null,
+        name: null,
+        users: [],
+        items: [],
+      }
     }
   }
 })
