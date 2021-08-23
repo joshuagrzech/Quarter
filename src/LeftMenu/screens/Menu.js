@@ -15,12 +15,7 @@ export const Menu = (props) => {
         </ConfigTouchable> 
         <HomeSettingsLabel>Profile Settings</HomeSettingsLabel>
       </View>
-      <View style={{ flex: 0.5, flexDirection: 'row', justifyContent: 'center', alignItems: 'center' }}>
-        <ConfigTouchable friction={10} tension={300} onPress={() => navigation.push('HomeSettings')} destination="HomeSettings" navigation={navigation} color="rgba(255, 165, 2,1.0)">
-          <Icon name='house-user' size={50} color='#2f3542'/>
-        </ConfigTouchable> 
-        <HomeSettingsLabel>Home Settings</HomeSettingsLabel>
-      </View>
+      
       <View style={{ flex: 0.5, flexDirection: 'row', justifyContent: 'center', alignItems: 'center' }}>
         <ConfigTouchable friction={10} tension={300} onPress={() => navigation.push('ShareSettings')} destination="ShareSettings" navigation={navigation} color="rgba(255, 165, 2,1.0)">
           <Icon name='users-cog' size={50} color='#2f3542'/>
